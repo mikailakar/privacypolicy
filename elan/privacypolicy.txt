@@ -1,7 +1,7 @@
 Privacy Policy  
 ==============
 
-Last updated: September 20, 2026
+Last updated: October 12, 2026
 
 This Privacy Policy describes Our policies and procedures on the collection,
 use and disclosure of Your information when You use the Service and tells You
@@ -85,6 +85,56 @@ While using Our Service, We may ask You to provide Us with certain personally
 identifiable information that can be used to contact or identify You.
 Personally identifiable information may include, but is not limited to:
 
+  * Email address (e.g. when signing in via Google Play Games / Google Sign-In)
+  * Display name / Gamer tag
+
+Health and Fitness Data (including Android Health Connect)  
+*********************************************************
+
+Elan is a dedicated physical workout tracking and fitness application. To provide
+You with core workout logging, routine planning, and physical training analytics, We
+access, collect, and process certain health and physical activity data:
+
+1. Categories of Health and Fitness Data Collected and Accessed:
+   * Exercise and Workout Data: Names of exercises performed, number of sets,
+     repetitions, weight lifted, rest timer intervals, workout duration, active time,
+     and completion timestamps.
+   * Body Measurements: Body weight and height.
+   * Physical Activity and Biometric Metrics: Step count, active and total
+     calories burned, and heart rate records (when connected to health platforms).
+
+2. How We Access and Collect Health Data:
+   * Direct User Input: Data You manually enter into the Application when
+     recording workouts, creating custom exercises, planning routines, or
+     updating Your profile measurements.
+   * Android Health Connect API: With Your explicit, voluntary permission, Elan
+     reads and writes health and fitness records (specifically: Steps, Weight,
+     Height, Exercise sessions, Total Calories Burned, and Heart Rate) via the
+     Android Health Connect system on Your device.
+
+3. Purpose of Accessing and Using Health Data:
+   * To record, structure, and display Your personal workout log and training history.
+   * To calculate training volume, estimate personal records (1RM), track muscle
+     recovery, and visualize strength progress.
+   * To synchronize Your workouts and measurements with Android Health Connect so
+     that Your fitness data remains centralized and consistent across Your device.
+
+4. Health Connect Limited Use Requirements and Commitments:
+   * Google Policy Compliance: The use of information received from Health Connect
+     will strictly adhere to the Health Connect Permissions Policy, including the
+     Limited Use requirements.
+   * No Advertising or Marketing: We NEVER use, disclose, or transfer Health Connect
+     data or health information for targeted advertising, marketing campaigns, or
+     cross-site behavioral tracking.
+   * No Sale or Transfer to Third Parties: We NEVER sell, license, rent, or transfer
+     Your health data to data brokers, ad networks, or any third-party entities.
+   * Human Access Restrictions: No human will read or inspect Your Health Connect
+     data unless:
+     - You provide explicit, affirmative consent for technical troubleshooting or support;
+     - It is necessary for security reasons (such as investigating system abuse);
+     - It is required to comply with applicable laws or valid legal processes; or
+     - The data is aggregated and completely anonymized.
+
 Usage Data  
 **********
 
@@ -117,6 +167,15 @@ The Company may use Personal Data for the following purposes:
 
   * To provide and maintain Our Service , including to monitor the usage of
     Our Service.
+
+  * To provide workout tracking and physical fitness functionalities: to record
+    Your workout sets, reps, and weights, calculate volume and personal bests,
+    display exercise history charts, monitor body weight and height trends, and
+    provide rest timers.
+
+  * To synchronize fitness records with Android Health Connect: with Your explicit
+    consent, to read and write completed workout sessions, steps, calories, heart
+    rate, weight, and height to maintain unified fitness records across Your device.
 
   * To manage Your Account: to manage Your registration as a user of the
     Service. The Personal Data You provide can give You access to different
@@ -179,6 +238,11 @@ We may share Your Personal Data in the following situations:
     distributed outside the Service.
   * With Your consent : We may disclose Your Personal Data for any other
     purpose with Your consent.
+  * Health Connect Data Protections: Notwithstanding any other provisions of this
+    Privacy Policy, Health Connect data is NEVER shared with third parties for
+    advertising, commercial profiling, or data brokering, and will only be shared
+    with Service Providers strictly as necessary to provide or maintain the core
+    Application features in compliance with Health Connect Limited Use policies.
 
 Retention of Your Personal Data  
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -276,6 +340,10 @@ to Us.
 
 Please note, however, that We may need to retain certain information when We
 have a legal obligation or lawful basis to do so.
+
+You can also revoke Elan's access to Android Health Connect at any time via Your
+device settings (Settings > Security & Privacy > Privacy > Health Connect > App
+permissions > Elan).
 
 Disclosure of Your Personal Data  
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
