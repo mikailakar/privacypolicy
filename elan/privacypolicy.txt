@@ -1,7 +1,7 @@
 Privacy Policy  
 ==============
 
-Last updated: October 12, 2026
+Last updated: October 14, 2026
 
 This Privacy Policy describes Our policies and procedures on the collection,
 use and disclosure of Your information when You use the Service and tells You
@@ -100,17 +100,14 @@ access, collect, and process certain health and physical activity data:
      repetitions, weight lifted, rest timer intervals, workout duration, active time,
      and completion timestamps.
    * Body Measurements: Body weight and height.
-   * Physical Activity and Biometric Metrics: Step count, active and total
-     calories burned, and heart rate records (when connected to health platforms).
 
 2. How We Access and Collect Health Data:
    * Direct User Input: Data You manually enter into the Application when
      recording workouts, creating custom exercises, planning routines, or
      updating Your profile measurements.
    * Android Health Connect API: With Your explicit, voluntary permission, Elan
-     reads and writes health and fitness records (specifically: Steps, Weight,
-     Height, Exercise sessions, Total Calories Burned, and Heart Rate) via the
-     Android Health Connect system on Your device.
+     reads and writes health and fitness records (specifically: Exercise sessions,
+     Body Weight, and Height) via the Android Health Connect system on Your device.
 
 3. Purpose of Accessing and Using Health Data:
    * To record, structure, and display Your personal workout log and training history.
@@ -174,8 +171,8 @@ The Company may use Personal Data for the following purposes:
     provide rest timers.
 
   * To synchronize fitness records with Android Health Connect: with Your explicit
-    consent, to read and write completed workout sessions, steps, calories, heart
-    rate, weight, and height to maintain unified fitness records across Your device.
+    consent, to read and write completed workout sessions, body weight, and height
+    to maintain unified fitness records across Your device.
 
   * To manage Your Account: to manage Your registration as a user of the
     Service. The Personal Data You provide can give You access to different
